@@ -1,0 +1,11 @@
+pandas
+numpy
+nltk
+vaderSentiment
+textblob
+flask
+scikit-learn
+matplotlib
+seaborn
+emoji
+gensim
